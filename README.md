@@ -5,12 +5,6 @@ A template for running a NodeJS application on Openshift, using Express and Mong
 It requires an Openshift account/application with NodeJS and MongoDb gears.
 
 
-Running on OpenShift
---------------------
-
-notes...
-
-
 License
 -------
 
